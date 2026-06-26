@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ARKA Dental Center</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
-</html>
+# 7J&Tech - Digital Solutions
+
+Premium web development, AI integration, and digital solutions for modern businesses.
+
+## Contact
+- Website: [7jntech.com](https://7jntech.com)
+- Email: js@7jntech.com
+
+---
+© 2026 7J&Tech. All rights reserved
